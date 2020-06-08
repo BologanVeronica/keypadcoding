@@ -1,3 +1,4 @@
+#Dreamteamproject-IoT Microlabclub
 typedef struct sensor_t {
   float (*get) (void);
   char paramName[20];
